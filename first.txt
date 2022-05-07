@@ -1,0 +1,2 @@
+First lines from local file
+local file
